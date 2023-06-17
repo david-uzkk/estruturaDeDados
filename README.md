@@ -1,2 +1,2 @@
 # estruturaDeDados
-Aulas e exercícios da disciplina de Estrutura de Dados.
+ Aulas e exercícios da disciplina de Estrutura de Dados.
